@@ -42,4 +42,4 @@ If your tests do not pass, modify the contract, recompile, redeploy and retest. 
   - subtract this from the total stock
   - remove the buyer from the event mapping
   - transfer the funds back to the sender/purchaser
-- Create an endSale function that when called, will transfer the remaining contract balance to the owner and also set isOpen to false.
+- Create an endSale function that when called, will transfer the remaining contract balance to the owner and also set isOpen to false
